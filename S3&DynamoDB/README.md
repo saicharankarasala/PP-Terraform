@@ -94,4 +94,4 @@ terraform init
 
 This image is in `assets/Images`:
 
-![Backend Initialization](assets/Images/Initiating-Backend.jpg)
+![Backend Initialization](../assets/Images/Initiating-Backend.jpg)

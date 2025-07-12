@@ -17,3 +17,6 @@ terraform.tfvars
 
 # Sensitive files
 *.pem
+
+# Ignore macOS metadata files
+.DS_Store
