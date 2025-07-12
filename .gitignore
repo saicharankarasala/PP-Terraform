@@ -14,3 +14,6 @@ crash.log
 # Override variables
 terraform.tfvars
 *.tfvars
+
+# Sensitive files
+*.pem
